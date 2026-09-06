@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+torch
+scanpy
+anndata
+shap
+lime
+adjustText
+python-docx
+jupyter
